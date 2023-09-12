@@ -1,10 +1,10 @@
-# Alien Assault Game
+# Alien Assault 👾
 
 ![Game Screenshot](screenshot.png)
 
 Alien Assault is a classic arcade-style shooting game built with Python and the Pygame library. In this game, you control a spaceship and your mission is to shoot down waves of incoming alien invaders while avoiding their attacks. The game features different difficulty modes, high score tracking, and exciting sound effects.
 
-## Table of Contents
+## Table of Contents 📚
 
 - [Getting Started](#getting-started)
 - [Game Controls](#game-controls)
@@ -15,29 +15,32 @@ Alien Assault is a classic arcade-style shooting game built with Python and the 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
+## Getting Started 🚀
 
 To play Space Invaders on your local machine, follow these steps:
 
 1. Clone the repository to your computer.
 2. Install Python if you don't have it installed already.
 3. Install the Pygame library by running `pip install pygame`.
-4. Run the game by executing `python main.py`.
+4. Create a folder titled **Alien Assault - Pygame** and move the contents of **Dependencies** folder into it.
+5. Run the game by executing `python3 main.py`.
 
-## Game Controls
+**NOTE:** Ensure that **main.py** file and  **Alien Assault - Pygame** folder are at the same location in your machine.
+
+## Game Controls 🎮
 
 - Use the **left and right arrow keys** to move your spaceship.
 - Press the **spacebar** to fire bullets at the alien invaders.
 - In the main menu, press **1** for easy mode or **2** for hard mode.
 
-## Gameplay
+## Gameplay ▶️
 
 - Your goal is to shoot down as many alien invaders as possible.
 - Avoid getting hit by enemy projectiles.
 - Each alien shot down earns you one point.
 - The game ends when an alien invader reaches the bottom of the screen or when your spaceship gets hit.
 
-## Features
+## Features 👨🏻‍💻
 
 - Two game modes: Easy and Hard.
 - Progressive difficulty as your score increases.
@@ -46,18 +49,18 @@ To play Space Invaders on your local machine, follow these steps:
 - Simple and intuitive controls.
 - Engaging gameplay inspired by the classic Space Invaders arcade game.
 
-## High Score
+## High Score 🏅
 
 The game keeps track of your highest score. If you beat your previous high score, it will be updated automatically. You can also check the high score in the main menu.
 
-## Screenshots
+## Screenshots 📸
 
 ![Game Screenshot](screenshot.png)
 
-## Contributing
+## Contributing 💡
 
 Contributions are welcome! If you have any ideas for improving the game or find any issues, please open an issue or create a pull request. We appreciate your contributions.
 
-## License
+## License ⚖️
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
